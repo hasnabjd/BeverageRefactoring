@@ -1,5 +1,6 @@
 public abstract class BeverageSupplements implements Beverage{
-    // here the implementation of each order with its price
+   // This class acts as a decorator
+
 
     protected Beverage BS;
 
