@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public interface Beverage {
+public interface Beverage {
+    //the price
+    double price();
+    //the Order
+    String getOrder();
 }
